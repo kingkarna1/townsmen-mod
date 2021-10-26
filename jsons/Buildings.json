@@ -144,7 +144,7 @@
 		"specialistSlots": {"Townie": 1},
 		"hurryCostModifier": 25,
 		"maintenance": 2,
-		"uniques": ["Must not be on [Hill]", "+[10]% Production when constructing [Buildings] [in this city]"],
+		"uniques": ["Must not be on [Hill]", "+[10]% Production when constructing [All] buildings [in this city]"],
 		"requiredTech": "Economics"
 	},
 	{
@@ -217,7 +217,7 @@
 		"production": 5,
 		"cost": 360,
 		"requiredBuilding": "Factory",
-		"uniques": ["+[50]% Production when constructing [Spaceship part] [in this city]"],
+		"uniques": ["+[50]% Production when constructing [Spaceship part] buildings [in this city]"],
 		"requiredTech": "Robotics"
 	},
 ]
